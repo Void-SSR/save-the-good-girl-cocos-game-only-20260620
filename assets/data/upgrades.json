@@ -1,0 +1,50 @@
+[
+  {
+    "id": "rapid-fire",
+    "name": "连射模块",
+    "rarity": "common",
+    "description": "射击间隔缩短 15%。",
+    "effects": {
+      "fireIntervalMultiplier": 0.85
+    }
+  },
+  {
+    "id": "hot-round",
+    "name": "净火弹头",
+    "rarity": "common",
+    "description": "子弹伤害提高 22%。",
+    "effects": {
+      "damageMultiplier": 1.22
+    }
+  },
+  {
+    "id": "split-shot",
+    "name": "扇形裂弹",
+    "rarity": "rare",
+    "description": "额外发射 1 枚副弹。",
+    "effects": {
+      "extraProjectiles": 1
+    }
+  },
+  {
+    "id": "neon-bomb",
+    "name": "霓虹爆裂",
+    "rarity": "rare",
+    "description": "命中时追加小范围溅射。",
+    "effects": {
+      "splashRadius": 72,
+      "splashRatio": 0.34
+    }
+  },
+  {
+    "id": "purify-field",
+    "name": "净化力场",
+    "rarity": "epic",
+    "description": "防线生命提高，并周期性灼烧前场敌人。",
+    "effects": {
+      "baseHpBonus": 20,
+      "auraDps": 8
+    }
+  }
+]
+

@@ -1,0 +1,38 @@
+{
+  "styleGuide": {
+    "direction": "vertical mobile mini game, neon dark fantasy, corrupted idol stage, purification effects, readable UI silhouettes",
+    "safeUse": "Use as placeholder production prompts. Final art should avoid explicit nudity and preserve original IP."
+  },
+  "firstChapter": [
+    {
+      "id": "stage_neon_ruins_bg",
+      "path": "assets/textures/stages/stage_neon_ruins_bg.png",
+      "purpose": "第一章竖屏战斗背景",
+      "prompt": "vertical mobile game battle background, ruined neon concert district, wet reflective ground, broken LED billboards, magenta cyan lighting, dark pollution mist, clear center lane for enemies, no text, no watermark"
+    },
+    {
+      "id": "boss_hiyin_corrupted",
+      "path": "assets/textures/bosses/boss_hiyin_corrupted.png",
+      "purpose": "黑化绯音 Boss 立绘",
+      "prompt": "adult anime female boss, 24 years old neon idol war diva, corrupted futuristic stage armor, magenta cyan rim light, dangerous commanding pose, ruined concert stage, upper body to thigh framing, no text, no watermark, no explicit nudity"
+    },
+    {
+      "id": "boss_hiyin_purified",
+      "path": "assets/textures/bosses/boss_hiyin_purified.png",
+      "purpose": "净化绯音同伴立绘",
+      "prompt": "adult anime heroine, 24 years old neon idol after purification, luminous urban diva aura, refined futuristic performance outfit, warm magenta cyan stage light, confident companion pose, upper body to thigh framing, no text, no watermark"
+    },
+    {
+      "id": "enemy_pollution_set",
+      "path": "assets/textures/monsters/enemy_pollution_set.png",
+      "purpose": "三类污染怪占位合集",
+      "prompt": "mobile game enemy sprite sheet, dark mist crawler, neon fast runner, heavy polluted brute, readable silhouettes, cyan magenta pollution glow, transparent background, no text"
+    },
+    {
+      "id": "ui_upgrade_cards",
+      "path": "assets/textures/ui/ui_upgrade_cards.png",
+      "purpose": "局内升级卡牌 UI",
+      "prompt": "mobile game UI card frames, neon purification theme, dark glass panels, gold rare border, magenta epic border, readable empty center for text, no text, transparent background"
+    }
+  ]
+}

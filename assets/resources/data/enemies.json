@@ -1,0 +1,33 @@
+[
+  {
+    "id": "crawler",
+    "name": "黑雾爬行体",
+    "hp": 72,
+    "speed": 82,
+    "damage": 4,
+    "xp": 12,
+    "radius": 22,
+    "spawnWeight": 60
+  },
+  {
+    "id": "runner",
+    "name": "霓虹疾行怪",
+    "hp": 52,
+    "speed": 128,
+    "damage": 3,
+    "xp": 10,
+    "radius": 18,
+    "spawnWeight": 30
+  },
+  {
+    "id": "brute",
+    "name": "污染重装怪",
+    "hp": 180,
+    "speed": 52,
+    "damage": 10,
+    "xp": 28,
+    "radius": 32,
+    "spawnWeight": 10
+  }
+]
+

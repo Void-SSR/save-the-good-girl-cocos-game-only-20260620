@@ -1,0 +1,14 @@
+{
+  "appid": "touristappid",
+  "projectname": "save-the-good-girl-cocos",
+  "compileType": "game",
+  "miniprogramRoot": "./",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": false
+  },
+  "condition": {}
+}
