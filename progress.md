@@ -12,3 +12,5 @@ Original prompt: Implement the full production plan for 《拯救美少女》, s
 - Replaced in-game first-chapter wording that mentioned eliminating Hiyin with purification-focused wording.
 - Added `assets/scenes/HomeScene.scene` and `MiniGameEntry.ts.meta`; the scene mounts the prototype entry component on a 750x1334 Canvas.
 - Added Cocos project design resolution settings for 750x1334.
+- Validation: JSON files and `HomeScene.scene` parse successfully; in-game wording scan passes for assets/scripts.
+- Cocos GUI note: the open editor window appears to remain on an existing Dashboard project with a different `HomeScreenController` component, so live play verification for this sandbox project is still pending. File-level scene data still points to `MiniGameEntry`.
