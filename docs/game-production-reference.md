@@ -305,6 +305,7 @@
 
 第一章可玩闭环已在 `assets/scripts/cocos/MiniGameEntry.ts` 中推进：
 
+- 新增 `assets/scenes/HomeScene.scene`，已挂载 `MiniGameEntry` 作为当前原型主场景。
 - 大厅可进入第一章净化流程。
 - 第一章开场、Boss 登场、胜利后净化对话从 `story.json` 读取。
 - Boss 绯音击败后会被净化并收录。

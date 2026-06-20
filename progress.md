@@ -10,3 +10,5 @@ Original prompt: Implement the full production plan for 《拯救美少女》, s
 - Extended game types with story, companion skill, viewed story nodes, and battle companion snapshot fields.
 - Expanded `MiniGameEntry.ts` into a first-chapter loop with story screens, persistent progress, codex, formation, Hiyin unlock, and companion assist.
 - Replaced in-game first-chapter wording that mentioned eliminating Hiyin with purification-focused wording.
+- Added `assets/scenes/HomeScene.scene` and `MiniGameEntry.ts.meta`; the scene mounts the prototype entry component on a 750x1334 Canvas.
+- Added Cocos project design resolution settings for 750x1334.
