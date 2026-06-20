@@ -4,7 +4,8 @@ Original prompt: Implement the full production plan for 《拯救美少女》, s
 
 - Started implementation from the approved plan.
 - Baseline direction: first chapter playable loop first, placeholder asset prompts, continue with `MiniGameEntry.ts`.
-- GitHub public upload still needs action-time confirmation before pushing project files.
+- GitHub repository created and initial project version pushed:
+  `https://github.com/Void-SSR/save-the-good-girl-cocos-game-only-20260620`
 - Added first-chapter story data in `assets/resources/data/story.json` and mirrored it under `assets/data/story.json`.
 - Added first-chapter placeholder art prompt data in `assetPrompts.json`.
 - Extended game types with story, companion skill, viewed story nodes, and battle companion snapshot fields.
